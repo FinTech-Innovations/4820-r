@@ -1,2 +1,4 @@
 title: FIN 4820 (Ratnadiwakara)
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
