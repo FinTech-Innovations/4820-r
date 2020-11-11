@@ -1,4 +1,4 @@
-# FIN 4820
+# Financial Modeling and Analytics
 
 This version of FIN 4820 is taught with the R langauge.
 
